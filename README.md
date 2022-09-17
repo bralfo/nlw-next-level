@@ -1,6 +1,6 @@
 #Nlw eSports - Trilha explorer
 
-![preview](./.github/previw.png)
+![previw](./.github/previw.png)
 
 Projeto construido no evento next Level Week da Rocketseat
 
