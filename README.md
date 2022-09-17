@@ -4,7 +4,7 @@
 
 Projeto construido no evento next Level Week da Rocketseat
 
-[Clique para acessar]https://bralfo.github.io/nlw-next-level/
+[Clique para acessar](https://bralfo.github.io/nlw-next-level/)
 
 ##  Tecnologias 
 - HTML
